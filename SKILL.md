@@ -3,6 +3,10 @@ name: xiaohongshu-social-media-search
 description: 实时搜索国内社媒之小红书的公开内容，快速返回笔记的内容信息、互动数量、趋势和评论等数据。当用户要查品牌、话题、事件或内容在小红书社媒上的公开表现时使用。支持四大能力：(1) 关键词搜索笔记/视频，可按点赞数、评论数、收藏数、发布时间、内容类型筛选排序；(2) 博主作品抓取，按主页链接获取博主的互动数据（粉丝量、点赞量或收藏量等）或公开作品列表；(3) 笔记（视频）详情，获取详情数据及互动数据等，分析笔记的市场表现；(4) 笔记评论分析，按笔记链接获取评论内容与互动数据。用户提到小红书/xhs/rednote 且需要查数据、市场调研、舆情监测、做选题、竞品监控、KOL筛选、舆情分析时调用；无需登录账号
 license: MIT
 version: 1.1.4
+display_name: 🎯小红书社媒搜索与分析
+display_name_en: XiaoHongShu Social Media Search and Analysis
+description_zh: 实时搜索国内社媒之小红书的公开内容，快速返回笔记的内容信息、互动数量、趋势和评论等数据。当用户要查品牌、话题、事件或内容在小红书社媒上的公开表现时使用。
+description_en: Perform real-time searches on public XiaoHongShu content from domestic social media. Rapidly return data including content information, engagement metrics, trends, and comments for notes. Use when users need to check the public performance of brands, topics, events or content on the XiaoHongShu social platform.
 category: 数据分析
 platforms: [WorkBuddy, Openclaw, QClaw, ima, Claude Code, Cursor]
 homepage: https://github.com/um-why/xiaohongshu-openclaw-skill
